@@ -48,8 +48,9 @@ This will run the `ping` command and display its execution time statistics.
 
 ## Options
 
-- `-h, --help`: Display help information
-- `-v, --version`: Display version information
+- `-p`: POSIX output format
+- `-o FILE`: Write result to FILE
+- `-a`: Append
 
 ## Output
 
